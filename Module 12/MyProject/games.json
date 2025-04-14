@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Madden NFL 24",
+        "genre": "Sports",
+        "release_year": "2023",
+        "developer": "EA Sports",
+        "publisher": "EA Sports",
+        "director": "John Madden",
+        "platform": "PlayStation 5",
+        "price": 59.99,
+        "available_on_switch": true,
+        "cover_athlete": "Patrick Mahomes",
+        "game_modes": "Ultimate Team, Franchise"
+    },
+    {
+        "title": "MLB The Show 24",
+        "genre": "Sports",
+        "release_year": "2024",
+        "developer": "Sony San Diego Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "director": "San Diego Studio",
+        "platform": "PlayStation 5",
+        "price": 59.99,
+        "available_on_switch": false,
+        "cover_athlete": "Fernando Tatis Jr.",
+        "game_modes": "Diamond Dynasty, Road to the Show"
+    },
+    {
+        "title": "NBA 2K24",
+        "genre": "Sports",
+        "release_year": "2023",
+        "developer": "Visual Concepts",
+        "publisher": "2K Sports",
+        "director": "Greg Thomas",
+        "platform": "PS5, Xbox Series X",
+        "price": 69.99,
+        "available_on_switch": false,
+        "cover_athlete": "Kobe Bryant",
+        "game_modes": "MyCareer, MyTeam, Play Now"
+    }
+]
